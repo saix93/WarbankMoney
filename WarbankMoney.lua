@@ -1,4 +1,4 @@
-local targetFrame = AccountBankPanel
+local targetFrame = BankPanel
 
 -- Properties
 local width = 160
