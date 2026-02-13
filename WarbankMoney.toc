@@ -2,7 +2,7 @@
 ## Title: WarbankMoney
 ## Notes: Extends the functionality of the Warband Bank
 ## Author: Saix93
-## Version: 1.0.1
+## Version: 1.0.2
 ## RequiredDeps:
 ## X-Curse-Project-ID: 1075760
 ## SavedVariables:
